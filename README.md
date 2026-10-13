@@ -1,6 +1,6 @@
 # Deep Learning Image Classification Project
 
-This project is part of my master's thesis and implements an image classification pipeline using PyTorch and timm.
+This project is part of my ML and implements an image classification pipeline using PyTorch and timm.
 
 ## Features
 - Model training and evaluation
